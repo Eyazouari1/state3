@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Mynerve&family=Poppins:ital,wght@1,200&family=Raleway:wght@200&family=Roboto:wght@100&family=Tajawal:wght@200&family=Work+Sans:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300&family=Mynerve&family=Poppins:ital,wght@1,200&family=Raleway:wght@200&family=Roboto:wght@100&family=Tajawal:wght@200&family=Work+Sans:ital,wght@1,100&display=swap'); 
+h2{
+font-size: 50px;
+  font-family:'Tajawal ';
+  text-align: center;
+  text-decoration: underline;
+  
+}
+p{
+  font-size: 24px;
+  font-family:'Cormorant Garamond ';
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 10px;
+  
+}
+button{
+  width:100px;
+  height: 40px;
+  border-radius: 10px;
+  font-family:'Cormorant Garamond' ;
+  background-color: aliceblue;
+  font-size: 20px;
+  margin-left:500px ;
+  margin-top: 30px;
+}
+img{
+  margin-left: 30px;
+}
+.test {
+  border:2px solid green;
+  width: 800px;
+  height: 800px;
+  text-align: center;
+  justify-content: center;
+  margin-left: 290px;
+  margin-top: 100px;
+  background-color:azure;
+}
